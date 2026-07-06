@@ -38,12 +38,6 @@ Symphonica scans your local music library, extracts metadata, and provides an el
 
 ---
 
-## Screenshots
-
-> *(Add a terminal screenshot here.)*
-
----
-
 ## Installation
 
 Clone the repository:
