@@ -43,7 +43,7 @@ Symphonica scans your local music library, extracts metadata, and provides an el
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Symphonica.git
+git clone https://github.com/RustySnake99/Symphonica.git
 cd Symphonica
 ```
 
